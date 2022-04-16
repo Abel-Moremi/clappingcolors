@@ -13,6 +13,6 @@ export default {
 <style scoped>
 .basic {
     background-color: #2c3e50;
-    padding: 100vh;
+    height: 100vh;
 }
 </style>
