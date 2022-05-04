@@ -25,11 +25,6 @@
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3"
   },
-  "browser": { 
-    "fs": false, 
-    "path": false, 
-    "os": false
-  },
   "eslintConfig": {
     "root": true,
     "env": {

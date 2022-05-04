@@ -9,5 +9,10 @@ module.exports = defineConfig({
         chunks: "all",
       },
     },
-  },
+    resolve: {
+      fallback: {
+        fs: false
+      }
+    }
+  }
 });
